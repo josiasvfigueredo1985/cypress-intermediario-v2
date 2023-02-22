@@ -27,7 +27,7 @@ Durante o curso de testes automatizados com Cypress (intermediário) você vai a
 
 ## Antes de começar...
 
-Siga este tutorial para configurar suas SSH keys, lembrando de usar os dados de usuário e email da conta do Gitlab que é levantado pelo Docker
+Siga este tutorial para configurar suas SSH keys, (recomendo usar o GitBash para o tutorial inteiro), lembrando de usar os dados de usuário e email da conta do Gitlab que é levantado pelo Docker: https://stackoverflow.com/questions/2643502/git-how-to-solve-permission-denied-publickey-error-when-using-git
 
 ## Vamos começar?
 
