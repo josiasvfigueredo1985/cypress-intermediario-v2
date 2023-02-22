@@ -1,0 +1,14 @@
+{
+    "cypressHelper.menuItems": {
+
+        "OpenCypress": true,
+        "RunCypress": true,
+        "GenerateCustomCommandTypes": true,
+        "GoToCustomCommand": true,
+        "FindCustomCommandReferences": true,
+        "FindStepDefinitionReferences": true,
+        "SchemaGenerator": false,
+        "ParseHAR": false,
+        "mockAutocomplete": false
+    }
+}
